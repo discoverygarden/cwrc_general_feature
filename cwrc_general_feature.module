@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the CWRC General Feature feature.
+ */
+
+include_once 'cwrc_general_feature.features.inc';
